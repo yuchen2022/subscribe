@@ -1,0 +1,62 @@
+{
+  "subscription_1": [
+    {
+      "price": 100,
+      "duration": 86400,
+      "off": 0,
+      "is_selected": false
+    },
+    {
+      "price": 200,
+      "duration": 2592000,
+      "off": 0,
+      "is_selected": false
+    },
+    {
+      "price": 300,
+      "duration": 31536000,
+      "off": 0,
+      "is_selected": true
+    }
+  ],
+  "subscription_2": [
+    {
+      "price": 400,
+      "duration": 86400,
+      "off": 0,
+      "is_selected": false
+    },
+    {
+      "price": 500,
+      "duration": 2592000,
+      "off": 0,
+      "is_selected": false
+    },
+    {
+      "price": 600,
+      "duration": 31536000,
+      "off": 10,
+      "is_selected": false
+    }
+  ],
+  "subscription_3": [
+    {
+      "price": 700,
+      "duration": 86400,
+      "off": 0,
+      "is_selected": false
+    },
+    {
+      "price": 800,
+      "duration": 2592000,
+      "off": 0,
+      "is_selected": false
+    },
+    {
+      "price": 900,
+      "duration": 31536000,
+      "off": 10,
+      "is_selected": false
+    }
+  ]
+}
